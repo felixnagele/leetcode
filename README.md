@@ -5,7 +5,9 @@ My [Leetcode](https://leetcode.com/) solutions.
 ## 📁 Structure
 
 **Naming**: Files are named by LeetCode ID (e.g., `0001.py`)
+
 **Content**: Accepted submissions of solutions
+
 **Workflow**: Solutions are added via individual branches and PRs
 
 ## 📝 Note
